@@ -6,5 +6,5 @@ public class ExcelUtil {
 
     // new method for reading data
 
-    // new method for changing data
+    // new method fo changing data
 }
